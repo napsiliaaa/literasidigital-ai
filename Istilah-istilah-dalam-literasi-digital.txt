@@ -1,1 +1,237 @@
+50 Istilah Literasi Digital yang Wajib Diketahui untuk Membuat Buku dan Jurnal Ilmiah
 
+Penulis: Napsilia Yola N
+Mahasiswa Bisnis Digital
+Mata Kuliah: Literasi Digital Bisnis dengan AI
+
+Pendahuluan
+
+Di era digital, pembuatan buku dan jurnal ilmiah tidak lagi hanya dilakukan secara manual. Perkembangan teknologi digital dan Artificial Intelligence (AI) telah membantu mahasiswa, penulis, peneliti, dan pelaku bisnis dalam mencari referensi, menyusun tulisan, mengelola sumber pustaka, hingga menerbitkan karya secara online.
+
+Namun, untuk menghasilkan karya tulis yang berkualitas, kita perlu memahami berbagai istilah dalam literasi digital. Istilah-istilah tersebut berkaitan dengan penulisan, penelitian, publikasi ilmiah, pengelolaan referensi, hak cipta, dan penggunaan kecerdasan buatan secara bertanggung jawab.
+
+Artikel ini membahas 50 istilah literasi digital yang penting untuk diketahui, khususnya bagi mahasiswa dan penulis yang ingin membuat buku maupun jurnal ilmiah.
+
+A. Istilah Dasar Literasi Digital
+
+1. Literasi Digital
+
+Literasi digital adalah kemampuan seseorang untuk menggunakan, memahami, mengevaluasi, dan memanfaatkan teknologi digital secara bijak, aman, dan bertanggung jawab.
+
+2. Artificial Intelligence (AI)
+
+Artificial Intelligence atau kecerdasan buatan adalah teknologi yang memungkinkan komputer melakukan tugas tertentu yang biasanya membutuhkan kecerdasan manusia, seperti memahami bahasa, menganalisis data, dan menghasilkan teks.
+
+3. Generative AI
+
+Generative AI adalah teknologi kecerdasan buatan yang dapat menghasilkan konten baru, seperti teks, gambar, audio, video, dan kode program.
+
+4. Prompt
+
+Prompt adalah instruksi atau perintah yang diberikan kepada AI untuk menghasilkan jawaban atau konten tertentu. Prompt yang jelas dapat membantu menghasilkan tulisan yang lebih sesuai dengan kebutuhan.
+
+5. Prompt Engineering
+
+Prompt engineering adalah proses merancang dan memperbaiki instruksi kepada AI agar hasil yang diberikan lebih relevan, terarah, dan sesuai tujuan.
+
+6. Digital Content
+
+Digital content atau konten digital adalah informasi dalam bentuk digital, seperti artikel, buku elektronik, gambar, video, podcast, dan infografis.
+
+7. Digital Publishing
+
+Digital publishing adalah proses menerbitkan dan menyebarkan karya melalui media digital, misalnya situs web, Blogger, platform buku elektronik, dan jurnal daring.
+
+8. E-book
+
+E-book atau electronic book adalah buku dalam format digital yang dapat dibaca menggunakan komputer, tablet, telepon pintar, atau perangkat pembaca elektronik.
+
+9. Cloud Storage
+
+Cloud storage adalah layanan penyimpanan data melalui internet yang memungkinkan dokumen disimpan, diakses, dan dibagikan secara daring.
+
+10. Metadata
+
+Metadata adalah informasi yang menjelaskan suatu dokumen atau karya digital, seperti judul, nama penulis, tanggal terbit, kata kunci, penerbit, dan identitas publikasi.
+
+B. Istilah dalam Pembuatan Buku
+
+11. Naskah (Manuscript)
+
+Naskah adalah tulisan yang disiapkan untuk diterbitkan menjadi buku, artikel, atau karya tulis lainnya. Naskah dapat berupa draf awal maupun versi yang telah disunting.
+
+12. Outline
+
+Outline adalah kerangka tulisan yang berisi susunan bab, subbab, dan pokok pembahasan. Outline membantu penulis menyusun buku secara sistematis.
+
+13. Kata Pengantar
+
+Kata pengantar adalah bagian awal buku yang berisi pengenalan singkat mengenai latar belakang penulisan, tujuan, atau proses penyusunan buku.
+
+14. Kata Sambutan
+
+Kata sambutan adalah tulisan yang biasanya disampaikan oleh pihak lain, seperti tokoh, pimpinan, atau ahli, untuk memberikan pengantar dan dukungan terhadap penerbitan buku.
+
+15. ISBN (International Standard Book Number)
+
+ISBN adalah nomor identifikasi standar internasional untuk edisi atau format buku tertentu yang diterbitkan. ISBN membantu identifikasi dan pengelolaan buku dalam sistem penerbitan dan distribusi.
+
+16. Layout
+
+Layout adalah pengaturan tata letak teks, gambar, judul, nomor halaman, dan elemen lainnya agar buku terlihat rapi dan mudah dibaca.
+
+17. Tipografi
+
+Tipografi adalah teknik pemilihan dan pengaturan huruf, termasuk jenis font, ukuran, ketebalan, jarak, dan keterbacaan tulisan.
+
+18. Proofreading
+
+Proofreading adalah pemeriksaan akhir untuk menemukan kesalahan ejaan, tanda baca, pengetikan, dan konsistensi sebelum naskah diterbitkan.
+
+19. Editing
+
+Editing adalah proses memperbaiki tulisan dari segi bahasa, struktur kalimat, kejelasan gagasan, alur pembahasan, dan konsistensi isi.
+
+20. Cover Buku
+
+Cover buku adalah bagian sampul yang berfungsi sebagai identitas visual dan memberikan gambaran mengenai isi buku. Desain cover dapat dibuat menggunakan aplikasi desain grafis maupun bantuan AI.
+
+C. Istilah dalam Penulisan Jurnal Ilmiah
+
+21. Jurnal Ilmiah
+
+Jurnal ilmiah adalah publikasi berkala yang memuat artikel akademik atau hasil penelitian yang disusun berdasarkan kaidah ilmiah.
+
+22. Artikel Ilmiah
+
+Artikel ilmiah adalah tulisan yang membahas hasil penelitian, kajian teori, atau analisis suatu masalah berdasarkan metode dan sumber yang dapat dipertanggungjawabkan.
+
+23. Abstrak
+
+Abstrak adalah ringkasan singkat sebuah artikel ilmiah yang umumnya memuat latar belakang, tujuan, metode, hasil, dan kesimpulan penelitian.
+
+24. Kata Kunci (Keywords)
+
+Kata kunci adalah istilah utama yang mewakili topik atau isi artikel. Kata kunci membantu pembaca dan mesin pencari menemukan artikel yang relevan.
+
+25. Pendahuluan (Introduction)
+
+Pendahuluan adalah bagian artikel ilmiah yang menjelaskan latar belakang masalah, alasan penelitian dilakukan, kesenjangan penelitian, dan tujuan penelitian.
+
+26. Metodologi Penelitian
+
+Metodologi penelitian adalah penjelasan mengenai pendekatan, desain, populasi atau sampel, instrumen, prosedur pengumpulan data, dan teknik analisis yang digunakan.
+
+27. Hasil Penelitian (Results)
+
+Hasil penelitian adalah bagian yang menyajikan temuan penelitian berdasarkan data yang telah dikumpulkan dan dianalisis.
+
+28. Pembahasan (Discussion)
+
+Pembahasan adalah bagian yang menjelaskan makna hasil penelitian, menghubungkannya dengan teori atau penelitian sebelumnya, dan menguraikan implikasinya.
+
+29. Daftar Pustaka (References)
+
+Daftar pustaka adalah kumpulan sumber yang benar-benar dirujuk dalam tulisan, seperti buku, artikel jurnal, laporan, dan sumber ilmiah lainnya.
+
+30. Peer Review
+
+Peer review adalah proses penilaian karya ilmiah oleh ahli atau penelaah yang memiliki kompetensi sesuai bidangnya sebelum artikel diputuskan untuk diterbitkan oleh jurnal.
+
+D. Istilah dalam Referensi dan Pengelolaan Sumber
+
+31. Sitasi (Citation)
+
+Sitasi adalah penyebutan sumber informasi yang digunakan dalam tulisan untuk mengakui pemikiran atau temuan penulis lain dan membantu pembaca menelusuri sumber asli.
+
+32. DOI (Digital Object Identifier)
+
+DOI adalah pengenal digital yang digunakan untuk mengidentifikasi suatu objek digital, misalnya artikel ilmiah. DOI membantu pembaca menemukan sumber yang sama meskipun alamat situsnya berubah.
+
+33. Google Scholar
+
+Google Scholar adalah layanan pencarian yang membantu pengguna menemukan literatur akademik, seperti artikel jurnal, tesis, buku, dan makalah ilmiah.
+
+34. Mendeley
+
+Mendeley adalah perangkat lunak pengelola referensi yang membantu penulis menyimpan sumber, mengorganisasi dokumen, dan menyusun sitasi serta daftar pustaka.
+
+35. Zotero
+
+Zotero adalah aplikasi pengelola referensi yang membantu pengguna mengumpulkan, mengatur, mengutip, dan membuat daftar pustaka dari berbagai sumber.
+
+36. APA Style
+
+APA Style adalah gaya penulisan dan pengutipan yang dikembangkan oleh American Psychological Association. Gaya ini banyak digunakan dalam bidang ilmu sosial, pendidikan, dan perilaku.
+
+37. Parafrasa
+
+Parafrasa adalah penyampaian kembali gagasan dari sumber lain menggunakan susunan kata sendiri dengan tetap mempertahankan makna aslinya dan mencantumkan sitasi.
+
+38. DOI Resolver
+
+DOI resolver adalah layanan yang mengarahkan DOI ke halaman tujuan suatu publikasi digital. Contohnya adalah https://doi.org/.
+
+39. Open Access
+
+Open access adalah akses terbuka terhadap publikasi ilmiah sehingga pembaca dapat mengaksesnya tanpa biaya berlangganan, sesuai ketentuan lisensi yang berlaku.
+
+40. Repositori Digital
+
+Repositori digital adalah tempat penyimpanan dan penyediaan akses terhadap dokumen digital, seperti skripsi, tesis, laporan penelitian, dan artikel ilmiah.
+
+E. Istilah Etika, Keamanan, dan AI dalam Penulisan
+
+41. Plagiarisme
+
+Plagiarisme adalah penggunaan gagasan, tulisan, data, atau karya orang lain tanpa pengakuan yang semestinya. Plagiarisme dapat terjadi meskipun beberapa kata telah diubah jika sumber gagasannya tidak dicantumkan.
+
+42. Similarity Check
+
+Similarity check adalah pemeriksaan kemiripan teks dengan dokumen lain menggunakan perangkat lunak tertentu. Hasil kemiripan bukan otomatis bukti plagiarisme karena harus diperiksa berdasarkan konteks dan sumbernya.
+
+43. Hak Cipta (Copyright)
+
+Hak cipta adalah hak hukum yang melindungi karya di bidang ilmu pengetahuan, seni, dan sastra. Penulis perlu memperhatikan izin penggunaan teks, foto, ilustrasi, dan materi milik pihak lain.
+
+44. Creative Commons
+
+Creative Commons adalah sistem lisensi yang memungkinkan pencipta memberikan izin penggunaan karyanya dengan syarat tertentu, misalnya mencantumkan atribusi atau membatasi penggunaan komersial.
+
+45. Halusinasi AI (AI Hallucination)
+
+Halusinasi AI adalah kondisi ketika sistem AI menghasilkan informasi yang terdengar meyakinkan tetapi tidak akurat, tidak didukung bukti, atau bahkan dibuat-buat. Contohnya adalah referensi jurnal dan DOI yang ternyata tidak ada.
+
+46. AI-Assisted Writing
+
+AI-assisted writing adalah penggunaan AI untuk membantu proses menulis, seperti membuat kerangka, memperbaiki tata bahasa, mengembangkan ide, dan merangkum informasi.
+
+47. Fact-Checking
+
+Fact-checking adalah proses memeriksa kebenaran informasi dengan membandingkannya terhadap sumber yang kredibel dan bukti yang dapat diverifikasi.
+
+48. Bias AI
+
+Bias AI adalah kecenderungan sistem AI menghasilkan jawaban yang tidak seimbang atau kurang adil akibat keterbatasan data, desain sistem, atau konteks penggunaannya.
+
+49. Privasi Data
+
+Privasi data adalah perlindungan terhadap informasi pribadi agar tidak dikumpulkan, digunakan, atau disebarkan secara tidak semestinya. Penulis perlu berhati-hati ketika mengunggah dokumen penelitian atau data responden ke layanan AI.
+
+50. Etika Digital
+
+Etika digital adalah prinsip perilaku yang bertanggung jawab ketika menggunakan teknologi digital, termasuk menghormati hak cipta, menjaga privasi, memverifikasi informasi, dan menggunakan AI secara transparan.
+
+Kesimpulan
+
+Memahami istilah-istilah literasi digital merupakan langkah penting bagi mahasiswa, penulis, dan peneliti dalam menghasilkan karya yang berkualitas. Pengetahuan tentang penulisan buku, jurnal ilmiah, pengelolaan referensi, serta etika penggunaan AI dapat membantu proses pembuatan karya menjadi lebih efektif, sistematis, dan bertanggung jawab.
+
+Dalam dunia bisnis digital, keterampilan tersebut juga bermanfaat untuk membuat artikel blog, buku elektronik, konten edukasi, laporan bisnis, dan publikasi profesional.
+
+AI dapat menjadi alat bantu yang bermanfaat, tetapi tidak menggantikan tanggung jawab penulis untuk memeriksa fakta, memastikan keaslian tulisan, menjaga kerahasiaan data, dan mencantumkan sumber yang benar.
+
+Dengan menguasai literasi digital, mahasiswa diharapkan mampu memanfaatkan teknologi secara cerdas, kreatif, dan etis untuk mendukung kegiatan akademik maupun pengembangan bisnis digital.
+
+Tentang Penulis
+
+Napsilia Yola N adalah mahasiswa Bisnis Digital yang sedang mempelajari mata kuliah Literasi Digital Bisnis dengan AI. Artikel ini disusun sebagai sarana pembelajaran untuk memahami istilah-istilah penting dalam penggunaan teknologi digital, pembuatan buku, penulisan jurnal ilmiah, dan pemanfaatan kecerdasan buatan secara bertanggung jawab.
